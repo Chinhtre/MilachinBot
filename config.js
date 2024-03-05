@@ -5,8 +5,8 @@ import fs from 'fs'
 import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js' 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['16479546631','Erika-Bot', true],    
-  ['16474952517']
+  ['5493855062309','𝓜𝓲𝓵𝓪𝓬𝓱𝓲𝓷 🎀', true],    
+  ['5492995868667']
 
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -80,8 +80,8 @@ global.APIKeys = { // APIKey Here
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '🐈 𝓔𝓻𝓲𝓴𝓪𝓑𝓞𝓣'
-global.author = '𝓔𝓻𝓲𝓴𝓪𝓑𝓞𝓣'
+global.packname = '𝓜𝓲𝓵𝓪𝓬𝓱𝓲𝓷 🎀'
+global.author = '𝓜𝓲𝓵𝓪𝓬𝓱𝓲𝓷'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
@@ -190,8 +190,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = 'ErikaBOT'
-global.igfg = 'Erika-BOT'
+global.wm = '𝓜𝓲𝓵𝓪𝓬𝓱𝓲𝓷 🎀'
+global.igfg = '𝓜𝓲𝓵𝓪𝓬𝓱𝓲𝓷 🎀'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
